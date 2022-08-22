@@ -3,6 +3,7 @@ import React from 'react'
 import { FlatList, ImageBackground, StyleSheet, Text, View,} from 'react-native'
 import { TouchableHighlight } from 'react-native-gesture-handler'
 
+
 const availableZipItems = [
     { place: 'Hatyai', code: '90110' },
     { place: 'Trang', code: '92000' },
